@@ -28,4 +28,4 @@ Hi! My name is Dima, and I’m a Bachelor’s student at ITMO University majorin
 
 ## Connect with me
 
-<p align="center">🔗 Telegram: <a href="t.me/dimasavr" target="_blank">Дмитрий Пермяков</a> Email: dimasavr@yandex.ru</p>
+<p align="center">🔗 Telegram: <a href="t.me/dimasavr">Дмитрий Пермяков</a> Email: dimasavr@yandex.ru</p>
